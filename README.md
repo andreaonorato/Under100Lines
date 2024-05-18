@@ -6,6 +6,50 @@ Welcome to Under100Lines! This repository contains a collection of small, concis
 
 Under100Lines aims to demonstrate the power of simplicity in programming. Each project or code snippet is designed to be easy to understand and modify, making it ideal for learning and experimentation. Explore the repository and discover new ideas to enhance your coding skills!
 
+## List of projects
+
+### Automation:
+1. **Bot Email for Gmail**: Automate sending emails using Gmail.
+2. **Bot WhatsApp Message**: Automate sending messages on WhatsApp.
+3. **Files Converter**: Convert files between different formats (e.g., PDF to Word).
+4. **Speech to Text and Vice-Versa**: Convert speech to text and text to speech.
+5. **Merge PDF**: Combine multiple PDF files into one.
+6. **Python Autodraw**: Use pyautogui to auto-draw sketches.
+
+### Manage Files:
+1. **Compress Files**: Compress files to reduce their size.
+2. **Duplicate Files Remover**: Find and remove duplicate files.
+3. **Encrypt Files**: Encrypt files to secure them.
+4. **QR Code Generator**: Generate QR codes for links or text.
+5. **Search String from Multiple Files**: Search for a string across multiple files.
+
+### Simple Apps:
+1. **Alarm Clock**: Set alarms and reminders.
+2. **ASCII Art**: Generate ASCII art from text or images.
+3. **Battery Notification**: Notify when the battery level is low.
+4. **Bouncing Ball**: Simple animation of a bouncing ball.
+5. **CAPTCHA Generator**: Generate CAPTCHA images for security.
+6. **Capture Screenshot**: Take screenshots of the screen.
+7. **Chatbot**: Create a simple conversational chatbot.
+8. **Convert Numbers to Words**: Convert numerical digits to words.
+9. **Create Simple Stopwatch**: Track time with a stopwatch.
+10. **Decimal to Binary Converter**: Convert decimal numbers to binary.
+11. **Encrypt and Decrypt Text**: Encrypt and decrypt text messages.
+12. **Password Generator**: Generate strong passwords.
+13. **Sine Wave Generator**: Generate sine wave patterns.
+14. **To-Do GUI**: Simple to-do list with a graphical user interface.
+
+### Web Tools:
+1. **All Links from Given Webpage**: Extract all links from a webpage.
+2. **Check Website Connectivity**: Test the connectivity of a website.
+3. **Fetch Current Weather**: Get the current weather conditions.
+4. **Fetch Open Ports**: Scan for open ports on a server.
+5. **Generate WordCloud from Wikipedia**: Create word clouds from Wikipedia articles.
+6. **Get Content from Locked Page**: Extract content from password-protected or locked web pages.
+7. **Get DNS Record**: Retrieve DNS records for a domain.
+8. **Get YouTube Comments from Link**: Fetch comments from a YouTube video link.
+
+
 ## Installation
 
 To run the programs in this repository, you'll need to have Python and pip installed on your system. Follow the steps below to install Python and pip:
